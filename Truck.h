@@ -1,3 +1,6 @@
+// Riley Wen
+// CIS 1202 ET1
+// July 29th, 2025
 #ifndef TRUCK_FILE
 #define TRUCK_FILE
 
